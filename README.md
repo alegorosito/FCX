@@ -1,4 +1,5 @@
-#FCX
+FCX
+
 Firmware Controlador de Vuelo basado en Arduino.
 
 Este es un controlador de vuelo basado en la plataforma Arduino. Algunas de las configuraciones que podrás setear son:
